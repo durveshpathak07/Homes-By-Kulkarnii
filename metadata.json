@@ -1,0 +1,8 @@
+{
+  "name": "Homes By Kulkarni",
+  "description": "Premium luxury interior design studio website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
