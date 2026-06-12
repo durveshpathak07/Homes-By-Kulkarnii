@@ -6,7 +6,7 @@ const testimonials = [
     id: 1,
     name: 'Rohan & Priya',
     location: 'Pune',
-    review: 'Parimaan Designs transformed our house into a dream home. The team is professional, creative and very detail oriented.',
+    review: 'Nath Interiors transformed our house into a dream home. The team is professional, creative and very detail oriented.',
     rating: 5,
     image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=200',
   },

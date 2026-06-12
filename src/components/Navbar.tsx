@@ -41,7 +41,7 @@ export function Navbar() {
           <div className="flex-shrink-0">
             <Link to="/" className="flex flex-col">
               <span className={`font-serif text-2xl tracking-wide uppercase transition-colors ${textColorClass}`}>
-                Parimaan Designs
+                Nath Interiors
               </span>
               <span className={`text-[0.65rem] tracking-[0.2em] font-medium uppercase mt-1 transition-colors ${subtitleColorClass}`}>
                 Interior Design Studio
