@@ -18,7 +18,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <Link to="/" className="flex flex-col mb-6">
               <span className="font-serif text-2xl tracking-wide uppercase text-white">
-                Baasuri Design Studio
+                Parimaan Designs
               </span>
               <span className="text-[0.65rem] tracking-[0.2em] font-medium uppercase mt-1 text-white/50">
                 Interior Design Studio
@@ -57,11 +57,11 @@ export function Footer() {
              <h4 className="font-serif text-lg mb-6">Contact Info</h4>
              <ul className="space-y-4 text-sm text-white/60">
                <li>+91 7083064377</li>
-               <li>hello@baasuridesign.com</li>
+               <li>hello@parimaandesigns.com</li>
                <li>Shop no. 07, samruddhi vihar apartment, Hari Vishwa Balaji Car Rd, behind Radisson Blu hotel, Buddha Vihar, Pathardi Phata, Nashik, Maharashtra 422010</li>
              </ul>
              <div className="mt-8 text-xs text-white/40">
-               <p>© {new Date().getFullYear()} Baasuri Design Studio.</p>
+               <p>© {new Date().getFullYear()} Parimaan Designs.</p>
                <p>All Rights Reserved.</p>
              </div>
           </div>
