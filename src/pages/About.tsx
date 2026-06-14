@@ -15,7 +15,7 @@ export default function About() {
               Crafting Spaces of Timeless Beauty
             </h1>
             <p className="text-lg text-dark-brown/70 font-light mb-6 leading-relaxed">
-              Nath Interiors is a premier interior design studio dedicated to creating personalized, elegant environments. We believe that your home should be a reflection of your evolving story.
+              Your Interior Studio is a premier interior design studio dedicated to creating personalized, elegant environments. We believe that your home should be a reflection of your evolving story.
             </p>
             <p className="text-lg text-dark-brown/70 font-light leading-relaxed">
               Founded on the principles of architectural honesty and minimalist elegance, our studio approaches every project with a curated eye for detail. We specialize in blending natural materials, warm neutral palettes, and bespoke furnishings to create spaces that feel both luxurious and intimately livable.

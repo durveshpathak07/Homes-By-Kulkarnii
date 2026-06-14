@@ -18,7 +18,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <Link to="/" className="flex flex-col mb-6">
               <span className="font-serif text-2xl tracking-wide uppercase text-white">
-                Nath Interiors
+                Your Interior Studio
               </span>
               <span className="text-[0.65rem] tracking-[0.2em] font-medium uppercase mt-1 text-white/50">
                 Interior Design Studio
@@ -56,12 +56,12 @@ export function Footer() {
           <div>
              <h4 className="font-serif text-lg mb-6">Contact Info</h4>
              <ul className="space-y-4 text-sm text-white/60">
-               <li>+91 88226 87290</li>
-               <li>hello@nathinteriors.com</li>
-               <li>Nath Interiors, 1st Floor, Platinum Tower, Beside Radisson Blu, Trimbak Road, Pathardi Phata, Nashik, Maharashtra 422010</li>
+               <li>+1 (555) 019-2834</li>
+               <li>hello@yourinteriorstudio.com</li>
+               <li>124 Design District, Fifth Avenue, New York, NY 10011</li>
              </ul>
              <div className="mt-8 text-xs text-white/40">
-               <p>© {new Date().getFullYear()} Nath Interiors.</p>
+               <p>© {new Date().getFullYear()} Your Interior Studio.</p>
                <p>All Rights Reserved.</p>
              </div>
           </div>
